@@ -19,7 +19,7 @@ on:
         required: ture
         default: 'false'
   # main分支有提交的时候
-  # push:
+  push:
   #   branches: 
   #     - main
   # 每月20号
