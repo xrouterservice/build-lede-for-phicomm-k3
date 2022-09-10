@@ -16,7 +16,7 @@ on:
     inputs:
       ssh:
         description: 'SSH connection to Actions'
-        required: false
+        required: ture
         default: 'false'
   # main分支有提交的时候
   # push:
